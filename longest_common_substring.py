@@ -15,10 +15,17 @@ def longest_common_substring(str1, str2, n1, n2):
             substring2 = str2[i:j]
             substring2_list.append(substring2)
     print(substring2_list)
-
-    for i in substring2_list:
-        if i in substring1_list:
-            common_substring.append(i)
+    
+    if len(substring_list2) < len(substring_list1):
+        for i in substring2_list:
+            if i in substring1_list:
+                common_substring.append(i)
+                
+     if len(substring_list2) > len(substring_list1):
+        for i in substring1_list:
+            if i in substring2_list:
+                common_substring.append(i)
+                
 
     maximum = len(common_substring[0])
 

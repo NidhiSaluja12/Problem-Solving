@@ -6,8 +6,10 @@ import sys
 
 def aVeryBigSum(ar):
     sum1 = 0
+
     for i in ar:
         sum1+=i
+
     return (sum1)
   
 if __name__ == '__main__':

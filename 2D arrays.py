@@ -20,6 +20,5 @@ if __name__ == '__main__':
     result = hourglassSum(arr)
 
     fptr.write(str(result) + '\n')
-
     fptr.close()
 

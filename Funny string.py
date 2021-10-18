@@ -7,7 +7,7 @@ import sys
 #
 # Complete the 'funnyString' function below.
 #
-# The function is expected to return a STRING.
+
 
 
 

@@ -5,7 +5,7 @@ import re
 import sys
 
 #
-# Complete the 'funnyString' function below.
+# 
 
 
 

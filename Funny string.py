@@ -4,7 +4,6 @@ import random
 import re
 import sys
 
-
 def funnyString(s):
     rev = s[::-1]
     

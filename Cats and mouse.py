@@ -4,7 +4,6 @@ import random
 import re
 import sys
 
-
 def catAndMouse(x, y, z):
     catA = abs(z-x)
     catB = abs(z-y)

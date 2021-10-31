@@ -4,7 +4,7 @@ import random
 import re
 import sys
 
-# The function i
+# The function 
 # The function accepts following parameters:
 #  1. INTEGER d1
 #  2. INTEGER m1

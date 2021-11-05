@@ -4,7 +4,7 @@ import random
 import re
 import sys
 
-# The function accepts following parameters:
+# The function accepts followin
 #  1. INTEGER d1
 #  2. INTEGER m1
 #  3. INTEGER y1

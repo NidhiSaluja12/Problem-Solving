@@ -2,7 +2,6 @@ import math
 import os
 import random
 import re
-im
 
 # The function
 #  1. INTEGER d1

@@ -3,7 +3,7 @@ import os
 import random
 import re
 
-# The function
+# The 
 #  1. INTEGER d1
 #  2. INTEGER m1
 #  3. INTEGER y1

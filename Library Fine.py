@@ -9,7 +9,7 @@ import re
 #  4. INTEGER d2
 #  5. INTEGER m2
 #  6. INTEGER y2
-#
+
 
 def libraryFine(d1, m1, y1, d2, m2, y2):
     fine = 0

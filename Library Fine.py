@@ -26,7 +26,6 @@ def libraryFine(d1, m1, y1, d2, m2, y2):
     return fine
     
             
-        
     
 
 if __name__ == '__main__':

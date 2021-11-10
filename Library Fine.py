@@ -25,7 +25,6 @@ def libraryFine(d1, m1, y1, d2, m2, y2):
                 fine = 0
     return fine
     
-            
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')

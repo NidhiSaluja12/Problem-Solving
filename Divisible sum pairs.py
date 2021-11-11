@@ -15,7 +15,6 @@ def divisibleSumPairs(n, k, ar):
                 count+=1
     return count
     
-
     
 
 if __name__ == '__main__':

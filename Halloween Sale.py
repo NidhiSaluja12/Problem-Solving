@@ -22,7 +22,7 @@ def howManyGames(p, d, m, s):
         p = max(p-d, m)
         games+=1
     return games-1
-    # return the number of games you can buy
+    # Return the number of games you can buy
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')

@@ -12,6 +12,7 @@ def beautifulDays(i, j, k):
             count+=1
     return count
 
+
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
 

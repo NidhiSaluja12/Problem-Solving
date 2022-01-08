@@ -14,7 +14,7 @@ import sys
 #  4. INTEGER b
 #  5. INTEGER_ARRAY apples
 #  6. INTEGER_ARRAY oranges
-#
+
 
 
 def countApplesAndOranges(s, t, a, b, apples, oranges):

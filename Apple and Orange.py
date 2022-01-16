@@ -4,7 +4,6 @@ import random
 import re
 import sys
 
-
 # Complete the function 'countApplesAndOranges'
 #
 # The function accepts following parameters:
@@ -14,7 +13,6 @@ import sys
 #  4. INTEGER b
 #  5. INTEGER_ARRAY apples
 #  6. INTEGER_ARRAY oranges
-
 
 def countApplesAndOranges(s, t, a, b, apples, oranges):
     print(sum([1 for x in apples if (x + a) >= s and (x + a) <= t]))

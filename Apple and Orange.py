@@ -4,7 +4,7 @@ import random
 import re
 import sys
 
-#
+
 # Complete the function 'countApplesAndOranges'
 #
 # The function accepts following parameters:

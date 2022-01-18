@@ -9,7 +9,7 @@ import sys
 #
 # The function is expected to return an INTEGER.
 # The function accepts STRING s as parameter.
-#
+
 
 def camelcase(s):
     count = 0

@@ -5,7 +5,7 @@ import re
 import sys
 
 
-# Complete the function 'countApplesAndOranges'
+# Complete the function
 #
 # The function accepts following parameters:
 #  1. INTEGER s

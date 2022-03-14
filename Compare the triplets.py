@@ -15,8 +15,7 @@ def compareTriplets(a, b):
         elif a[i]<b[i]:
             B_points+=1
     return A_points,B_points
-            
-    
+             
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')

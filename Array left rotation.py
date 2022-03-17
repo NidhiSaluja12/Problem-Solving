@@ -17,8 +17,7 @@ def rotateLeft(d, arr):
             arr[i+1]=temp
             
     return arr
-'''            
-     
+'''                
    
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')

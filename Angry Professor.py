@@ -34,6 +34,5 @@ if __name__ == '__main__':
         result = angryProfessor(k, a)
 
         fptr.write(result + '\n')
-
     fptr.close()
 

@@ -5,7 +5,7 @@ import re
 import sys
 
 
-# Complete the 'camelcase' function below.
+#Complete the 'camelcase' function below.
 #
 # The function is expected to return an INTEGER.
 # The function accepts STRING s as parameter.

@@ -24,7 +24,6 @@ if __name__ == '__main__':
     b = list(map(int, input().rstrip().split()))
 
     result = compareTriplets(a, b)
-
     fptr.write(' '.join(map(str, result)))
     fptr.write('\n')
     fptr.close()

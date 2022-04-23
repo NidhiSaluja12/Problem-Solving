@@ -8,7 +8,6 @@ def find_missing_number_from_array(array, size):
         return "No missing number!"
 
 
-
 arr = list(map(int, input().split()))
 n = len(arr)
 res = find_missing_number_from_array(arr, n)

@@ -21,7 +21,6 @@ if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
 
     t = int(input().strip())
-
     for t_itr in range(t):
         first_multiple_input = input().rstrip().split()
 

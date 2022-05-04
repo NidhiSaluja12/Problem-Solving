@@ -4,6 +4,7 @@ import random
 import re
 import sys
 
+
 def aVeryBigSum(ar):
     sum1 = 0
 

@@ -4,6 +4,7 @@ import random
 import re
 import sys
 
+
 # Complete the function
 #
 # The function accepts following parameters:

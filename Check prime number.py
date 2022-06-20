@@ -9,8 +9,7 @@ def check_prime_number(n):
 
             else:
                result = "YES"
-   
-else:
+   else:
        result = "NO"
     return result
 

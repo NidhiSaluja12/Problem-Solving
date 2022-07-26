@@ -4,7 +4,8 @@ def simpleArraySum(ar):
         sum1+=i
     return sum1
    
-    
+ 
+   
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
 

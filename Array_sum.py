@@ -3,7 +3,6 @@ def simpleArraySum(ar):
     for i in ar:
         sum1+=i
     return sum1
-   
  
   
  
